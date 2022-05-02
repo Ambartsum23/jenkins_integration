@@ -14,15 +14,15 @@
   <con:entry key="Password" value=""/>
   <con:entry key="Print Report" value="false"/>
   <con:entry key="Open Report" value="false"/>
-  <con:entry key="Export JUnit Results with test properties" value="false"/>
+  <con:entry key="Export JUnit Results with test properties" value="t"/>
   <con:entry key="Global Properties" value=""/>
   <con:entry key="Project Properties" value=""/>
   <con:entry key="Project Password" value=""/>
   <con:entry key="TestCase" value="&lt;all>"/>
   <con:entry key="Username" value=""/>
   <con:entry key="user-settings.xml Password" value=""/>
-  <con:entry key="TestRunner Path" value="cd C:\Program Files\SmartBear\SoapUI-5.6.1\bin\ testrunner.bat -sTestSuite1 -cAssertions  &quot;C:\Users\hamba\OneDrive\Desktop\soapui_homework-soapui_groovy\REST-Project-1-soapui-project.xml&quot;"/>
-  <con:entry key="Environment" value="Default"/>
+  <con:entry key="TestRunner Path" value="cd C:\Program Files\SmartBear\SoapUI-5.6.1\bin\ testrunner.bat -sTests\hamba\Onhomework-soapui_groovyapui-project.xml&quot;"/>
+  <con:entry key="Environment" value="lt"/>
   <con:entry key="Coverage Report" value="false"/>
   <con:entry key="Enable UI" value="false"/>
   <con:entry key="Root Folder" value=""/>
@@ -33,4 +33,3 @@
 </xml-fragment>]]><r
 
 
-log.info scriptText></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="Groovy Script" id="0f38d7f8-694e-44fc-8aca-bdada857b586"><con:settings/><con:config><script/></con:config></con:testStep><con:properties/></con:testCase><con:properties/></con:testSuite><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>
