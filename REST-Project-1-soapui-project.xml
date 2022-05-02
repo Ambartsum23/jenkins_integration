@@ -1,2 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="96ac0259-4de5-4ebc-a043-fa0229cc0509" activeEnvironment="Default" name="REST Project 1" resourceRoot="" soapui-version="5.6.1" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.TestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+
